@@ -1,5 +1,5 @@
 
-## 최솟값 만들기
+## 기능개발
 https://programmers.co.kr/learn/courses/30/lessons/42586
 
 ### 문제 설명
